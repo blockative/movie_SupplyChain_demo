@@ -6,7 +6,7 @@ This repository containts an Ethereum DApp that demonstrates a Supply Chain flow
 ### UML
 ![truffle test](UML/ActivityDiagram.png)
 
-![truffle test](UML/SequenceDiagram.png)
+![truffle test](UML/SequenceDaigram.png)
 
 ![truffle test](UML/StateDaigram.png)
 
